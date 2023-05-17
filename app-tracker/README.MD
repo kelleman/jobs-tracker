@@ -1,15 +1,6 @@
-# Jobster API
+live demo:  https://jobstracker.onrender.com
 
-#### Starter
 
-The starter is a copy of jobs-api final project, just with additional data.
-
-#### Setup
-
-- navigate to 06.5-jobster-api/starter
-- install dependencies
-
-```sh
 npm install
 ```
 
@@ -24,9 +15,7 @@ JWT_SECRET=
 JWT_LIFETIME=
 ```
 
-- start the project
 
-```sh
 npm start
 ```
 
